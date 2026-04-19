@@ -1,0 +1,9 @@
+中：
+①用方向键（左或右）切换GIF动图
+②用WASD移动窗口位置（可以长按移动，移动后动图会消失，再切换一下动图就回来了）
+③程序会自动读取kitties文件夹中的动图，可以自己往里面添加其他动图（不需要改成特殊名字，放到文件夹里就行）
+
+EN：
+①Use direction keys (Left Key or Right Key) to switch GIFs
+②Use WASD keys to move the window (You can hold the key to keep moving faster, once you moved the GIF will disappear, but if you switch the GIF again then it will be back)
+③The program will automatically read the GIFs in the folder "./kitties", you can add other GIFs in it (No need special file names, just drop the GIF in the folder)
